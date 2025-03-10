@@ -1,7 +1,7 @@
 # 👋 Hey there! I'm Akshada Malpure  
 
 🚀 **Software Engineer | Data Scientist | Cloud Enthusiast**  
-🎓 Master's in Computer Science @ **North Carolina State University** (GPA: 4.0)  
+🎓 Master's in Computer Science @ North Carolina State University (GPA: 4.0)  
 
 I'm passionate about **Machine Learning, Cloud Computing, Full-Stack Development, and AI-driven solutions**. With experience in **software engineering, data science, and cloud technologies**, I love building scalable applications and working on cutting-edge AI/ML projects.  
 
